@@ -1,0 +1,49 @@
+{
+    "model": "2022-07-11T09:02:30.983841Z",
+    "pegawai": {
+        "Febri Aji Maulana": {
+            "tanggal": "2022-07-12",
+            "masuk": "11:24:02",
+            "pulang": "00:00:00",
+            "suhu": "35.7",
+            "keterangan": "Hadir",
+            "nip": "361955401034",
+            "nama": "Febri Aji Maulana",
+            "jabatan": "Anggota",
+            "shift": "23:00:00"
+        },
+        "Agung Wahyu": {
+            "tanggal": "2022-07-11",
+            "masuk": "18:37:44",
+            "pulang": "00:00:00",
+            "suhu": "35.7",
+            "keterangan": "Telat",
+            "nip": "123123",
+            "nama": "Agung Wahyu",
+            "jabatan": "Ketua Tim",
+            "shift": "23:00:00"
+        },
+        "Avina Widodo": {
+            "nama": "Avina Widodo",
+            "nip": "9992088",
+            "jabatan": "Anggota",
+            "suhu": "35.7",
+            "tanggal": "2022-07-09",
+            "masuk": "12:49:57",
+            "pulang": "16:47:48",
+            "shift": "16:00:00",
+            "keterangan": "Telat"
+        },
+        "Obama": {
+            "tanggal": "2022-07-11",
+            "masuk": "15:50:04",
+            "pulang": "00:00:00",
+            "suhu": "35.7",
+            "keterangan": "Telat",
+            "nip": "112128",
+            "nama": "Obama",
+            "jabatan": "Direktur Produksi",
+            "shift": "16:00:00"
+        }
+    }
+}
